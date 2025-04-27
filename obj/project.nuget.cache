@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FdUB7RMWcIk=",
+  "success": true,
+  "projectFilePath": "C:\\VisualStudioCodeProjects\\Practice\\C#\\BadApple!\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\domin\\.nuget\\packages\\frosty.artworkutils.asciiartutil\\1.0.2\\frosty.artworkutils.asciiartutil.1.0.2.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.4\\microsoft.win32.systemevents.9.0.4.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\system.drawing.common\\9.0.4\\system.drawing.common.9.0.4.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
